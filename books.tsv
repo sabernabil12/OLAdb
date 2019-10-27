@@ -1,6 +1,6 @@
-Title	Author	ISBN	Copy number	Page count	Price	Publisher	Genre	Reading level
-Amar Baba	Rajat Shuvro Roy	7890788	1	5	Bonosree books and co	GEN	4
-Amar Baba	Rajat Shuvro Roy	7890788	2	5	BonosreeDhaka books and co	GEN	4
-Amar Baba	Rajat Shuvro Roy	7890788	3	5	BonosreeDhaka books and co	GEN	4
-Bhua Bhalobasha 	Saber Nabil	678564	1	10	Dakkhin Khan Publishers	FIC	5
-Robindra Prem	Nanda Mitra	456098	1	15	Bakura Publishers	FIC	6
+Title	Author	ISBN	Copy number	Page count	Price	Publisher	Genre	Reading level	Year
+Amar Baba	Rajat Shuvro Roy	7890788	1	5	5	Bonosree books and co	GEN	4	2015
+Amar Baba	Rajat Shuvro Roy	7890788	2	5	5	BonosreeDhaka books and co	GEN	4	2015
+Amar Baba	Rajat Shuvro Roy	7890788	3	5	5	BonosreeDhaka books and co	GEN	4	2015
+Bhua Bhalobasha 	Saber Nabil	678564	1	10	10	Dakkhin Khan Publishers	FIC	5	2017
+Robindra Prem	Nanda Mitra	456098	1	15	10	Bakura Publishers	FIC	6	2018
