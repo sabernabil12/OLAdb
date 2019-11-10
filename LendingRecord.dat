@@ -1,21 +1,26 @@
 #Onkur library book lending records
 #Book Id = Onkur book id. Value = <String>
 #User Id = Onkur user id. Value = <Integer>
-#Checkout = Date the book was checked out. Value = <YYYY-MM-DD HH:MM>
-#Return = Date the book was returned. Value = <YYYY-MM-DD HH:MM>
+#Date = Date of transaction. Value = <YYYY-MM-DD HH:MM:ss>
+#Type = Type of transaction. Value = Checkout/Return
 ************************************
 Book Id:	7890788-GEN-4-(2)
 User Id:	234
-Checkout:	2019-09-13 10:30
-Return:		2019-10-15 13:45
+Date:		2019-09-13 10:30:31
+Type:		Checkout
 ************************************
 Book Id:	678564-FIC-5-(1)
 User Id:	123
-Checkout:	2019-10-15 11:01
-Return:
+Date:		2019-10-15 11:01
+Type:		Checkout
 ************************************
 Book Id:	456098-FIC-6-(1)
 User Id:	345
-Checkout:	2019-11-03 10:33
-Return:
+Date:		2019-11-03 10:33
+Type:		Checkout
+************************************
+Book Id:	7890788-GEN-4-(2)
+User Id:	234
+Date:		2019-11-13 10:30:25
+Type:		Return
 ************************************
